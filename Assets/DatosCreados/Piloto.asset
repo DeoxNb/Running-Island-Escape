@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58cd6d80605434c428326bac65a4418f, type: 3}
+  m_Name: Piloto
+  m_EditorClassIdentifier: Assembly-CSharp::RunningIsland.Datos.PersonajeData
+  idPersonaje: Piloto
+  nombrePersonaje: Piloto
+  descripcionHabilidad: "Su destreza mec\xE1nica le permite destacar en la reconstrucci\xF3n
+    y reparaci\xF3n de los medios de escape."
+  velocidadMovimiento: 5
+  multiplicadorMitigacionFuego: 1
+  vidaMaxima: 100
+  controladorAnimaciones: {fileID: 22100000, guid: 88621cf23817f56488a3588a41e45f74, type: 2}
+  skinVisualMapa: {fileID: -3959592911178810651, guid: 7b54fd548d272514f8e541844d6d973e, type: 3}

@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 6dec306ce13ecc547af5b46a68010f71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8162350943751873302
+    second: main_character_FixingTower_64x64_0
+  - first:
+      213: -359260301018436669
+    second: main_character_FixingTower_64x64_1
+  - first:
+      213: 7118746117317874002
+    second: main_character_FixingTower_64x64_2
+  - first:
+      213: 2059038539649368626
+    second: main_character_FixingTower_64x64_3
+  - first:
+      213: -3185378660913248348
+    second: main_character_FixingTower_64x64_4
+  - first:
+      213: 8269131780454138445
+    second: main_character_FixingTower_64x64_5
+  - first:
+      213: 4539422535491606304
+    second: main_character_FixingTower_64x64_6
+  - first:
+      213: -1946989277128427239
+    second: main_character_FixingTower_64x64_7
+  - first:
+      213: 4211799779342304260
+    second: main_character_FixingTower_64x64_8
+  - first:
+      213: 4930478736588693893
+    second: main_character_FixingTower_64x64_9
+  - first:
+      213: -2789265236571809993
+    second: main_character_FixingTower_64x64_10
+  - first:
+      213: 3185556787968917700
+    second: main_character_FixingTower_64x64_11
+  - first:
+      213: -1453214481011978423
+    second: main_character_FixingTower_64x64_12
+  - first:
+      213: 6266126219052411276
+    second: main_character_FixingTower_64x64_13
+  - first:
+      213: 332615851859866982
+    second: main_character_FixingTower_64x64_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: main_character_FixingTower_64x64_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 139
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec5899001189be80800000000000000
+      internalID: -8162350943751873302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_FixingTower_64x64_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 138
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb65efd8a6a30bf0800000000000000
+      internalID: -359260301018436669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_FixingTower_64x64_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 140
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2515ce080eddac260800000000000000
+      internalID: 7118746117317874002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_FixingTower_64x64_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 140
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232c3ae74ac239c10800000000000000
+      internalID: 2059038539649368626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_FixingTower_64x64_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 139
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a708291cf24bc3d0800000000000000
+      internalID: -3185378660913248348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_FixingTower_64x64_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 75
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42ccd6ea8bd1c270800000000000000
+      internalID: 8269131780454138445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_FixingTower_64x64_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 76
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0275161ceb44ffe30800000000000000
+      internalID: 4539422535491606304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_FixingTower_64x64_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 75
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919f34b6197eaf4e0800000000000000
+      internalID: -1946989277128427239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_FixingTower_64x64_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 75
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40444c09591537a30800000000000000
+      internalID: 4211799779342304260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_FixingTower_64x64_9
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 75
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5816cf2c9449c6440800000000000000
+      internalID: 4930478736588693893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_FixingTower_64x64_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 11
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7379ac5ab0a8a49d0800000000000000
+      internalID: -2789265236571809993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_FixingTower_64x64_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 11
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0c8b6550f553c20800000000000000
+      internalID: 3185556787968917700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_FixingTower_64x64_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 10
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fc3d4012525dbe0800000000000000
+      internalID: -1453214481011978423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_FixingTower_64x64_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 10
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89616cc890c5f650800000000000000
+      internalID: 6266126219052411276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_FixingTower_64x64_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 11
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66575c0ea50bd9400800000000000000
+      internalID: 332615851859866982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      main_character_FixingTower_64x64_0: -8162350943751873302
+      main_character_FixingTower_64x64_1: -359260301018436669
+      main_character_FixingTower_64x64_10: -2789265236571809993
+      main_character_FixingTower_64x64_11: 3185556787968917700
+      main_character_FixingTower_64x64_12: -1453214481011978423
+      main_character_FixingTower_64x64_13: 6266126219052411276
+      main_character_FixingTower_64x64_14: 332615851859866982
+      main_character_FixingTower_64x64_2: 7118746117317874002
+      main_character_FixingTower_64x64_3: 2059038539649368626
+      main_character_FixingTower_64x64_4: -3185378660913248348
+      main_character_FixingTower_64x64_5: 8269131780454138445
+      main_character_FixingTower_64x64_6: 4539422535491606304
+      main_character_FixingTower_64x64_7: -1946989277128427239
+      main_character_FixingTower_64x64_8: 4211799779342304260
+      main_character_FixingTower_64x64_9: 4930478736588693893
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

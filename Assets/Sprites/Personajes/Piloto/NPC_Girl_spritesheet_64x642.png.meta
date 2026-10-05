@@ -1,0 +1,2106 @@
+fileFormatVersion: 2
+guid: bd4b789ab0749af4a85d3329200c2192
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8615992618298192465
+    second: NPC_Girl_spritesheet_64x642_0
+  - first:
+      213: 3967957373743230472
+    second: NPC_Girl_spritesheet_64x642_1
+  - first:
+      213: -7111907873677013994
+    second: NPC_Girl_spritesheet_64x642_2
+  - first:
+      213: -3475373546809232222
+    second: NPC_Girl_spritesheet_64x642_3
+  - first:
+      213: -7877829486682329687
+    second: NPC_Girl_spritesheet_64x642_4
+  - first:
+      213: 6147873501534146005
+    second: NPC_Girl_spritesheet_64x642_5
+  - first:
+      213: -5012077778658728391
+    second: NPC_Girl_spritesheet_64x642_6
+  - first:
+      213: 5000690984408533568
+    second: NPC_Girl_spritesheet_64x642_7
+  - first:
+      213: -2830044444863827502
+    second: NPC_Girl_spritesheet_64x642_8
+  - first:
+      213: 832398721798074307
+    second: NPC_Girl_spritesheet_64x642_9
+  - first:
+      213: 3178222090611696839
+    second: NPC_Girl_spritesheet_64x642_10
+  - first:
+      213: 7437615163004019752
+    second: NPC_Girl_spritesheet_64x642_11
+  - first:
+      213: -4113283635531783489
+    second: NPC_Girl_spritesheet_64x642_12
+  - first:
+      213: 444647417792387695
+    second: NPC_Girl_spritesheet_64x642_13
+  - first:
+      213: 1034128057216842828
+    second: NPC_Girl_spritesheet_64x642_14
+  - first:
+      213: 249824152850764324
+    second: NPC_Girl_spritesheet_64x642_15
+  - first:
+      213: -7500529438818855750
+    second: NPC_Girl_spritesheet_64x642_16
+  - first:
+      213: 6393411044228111570
+    second: NPC_Girl_spritesheet_64x642_17
+  - first:
+      213: 585042488665935808
+    second: NPC_Girl_spritesheet_64x642_18
+  - first:
+      213: -5653346354953194436
+    second: NPC_Girl_spritesheet_64x642_19
+  - first:
+      213: -7765426400282499303
+    second: NPC_Girl_spritesheet_64x642_20
+  - first:
+      213: -658598536225555409
+    second: NPC_Girl_spritesheet_64x642_21
+  - first:
+      213: -1090481250379526500
+    second: NPC_Girl_spritesheet_64x642_22
+  - first:
+      213: 2545307848476564034
+    second: NPC_Girl_spritesheet_64x642_23
+  - first:
+      213: -3915986004852887561
+    second: NPC_Girl_spritesheet_64x642_24
+  - first:
+      213: -6927477797079578420
+    second: NPC_Girl_spritesheet_64x642_25
+  - first:
+      213: -1176894512039105405
+    second: NPC_Girl_spritesheet_64x642_26
+  - first:
+      213: 4067156839078110724
+    second: NPC_Girl_spritesheet_64x642_27
+  - first:
+      213: -4522255598865656461
+    second: NPC_Girl_spritesheet_64x642_28
+  - first:
+      213: 4823405473550265104
+    second: NPC_Girl_spritesheet_64x642_29
+  - first:
+      213: 5276868988613469817
+    second: NPC_Girl_spritesheet_64x642_30
+  - first:
+      213: 1113319005948686325
+    second: NPC_Girl_spritesheet_64x642_31
+  - first:
+      213: 1683963115929948822
+    second: NPC_Girl_spritesheet_64x642_32
+  - first:
+      213: 7879352503311237550
+    second: NPC_Girl_spritesheet_64x642_33
+  - first:
+      213: 4573536059154076597
+    second: NPC_Girl_spritesheet_64x642_34
+  - first:
+      213: -2314633019594750808
+    second: NPC_Girl_spritesheet_64x642_35
+  - first:
+      213: -8244593803361086933
+    second: NPC_Girl_spritesheet_64x642_36
+  - first:
+      213: -2967426669304241256
+    second: NPC_Girl_spritesheet_64x642_37
+  - first:
+      213: -5468974908581119503
+    second: NPC_Girl_spritesheet_64x642_38
+  - first:
+      213: -3465762016939192712
+    second: NPC_Girl_spritesheet_64x642_39
+  - first:
+      213: 3787930141702938580
+    second: NPC_Girl_spritesheet_64x642_40
+  - first:
+      213: 804281753924201429
+    second: NPC_Girl_spritesheet_64x642_41
+  - first:
+      213: -1443536823358018613
+    second: NPC_Girl_spritesheet_64x642_42
+  - first:
+      213: 4355644974431222615
+    second: NPC_Girl_spritesheet_64x642_43
+  - first:
+      213: -2241469597506892028
+    second: NPC_Girl_spritesheet_64x642_44
+  - first:
+      213: -1447608721282256726
+    second: NPC_Girl_spritesheet_64x642_45
+  - first:
+      213: 2855552414791094521
+    second: NPC_Girl_spritesheet_64x642_46
+  - first:
+      213: -5240710797993570078
+    second: NPC_Girl_spritesheet_64x642_47
+  - first:
+      213: -7281791887393095906
+    second: NPC_Girl_spritesheet_64x642_48
+  - first:
+      213: 8819977002906283821
+    second: NPC_Girl_spritesheet_64x642_49
+  - first:
+      213: 9014181924233872967
+    second: NPC_Girl_spritesheet_64x642_50
+  - first:
+      213: -1945253309279728421
+    second: NPC_Girl_spritesheet_64x642_51
+  - first:
+      213: -1623886374056662113
+    second: NPC_Girl_spritesheet_64x642_52
+  - first:
+      213: 3926013846361880712
+    second: NPC_Girl_spritesheet_64x642_53
+  - first:
+      213: 3112588352217189501
+    second: NPC_Girl_spritesheet_64x642_54
+  - first:
+      213: -5562168001552622659
+    second: NPC_Girl_spritesheet_64x642_55
+  - first:
+      213: 2874373511033229157
+    second: NPC_Girl_spritesheet_64x642_56
+  - first:
+      213: 7456233532803932992
+    second: NPC_Girl_spritesheet_64x642_57
+  - first:
+      213: 2698355089084643232
+    second: NPC_Girl_spritesheet_64x642_58
+  - first:
+      213: -5118289692888255522
+    second: NPC_Girl_spritesheet_64x642_59
+  - first:
+      213: -6649425513625592945
+    second: NPC_Girl_spritesheet_64x642_60
+  - first:
+      213: -1575229320437152098
+    second: NPC_Girl_spritesheet_64x642_61
+  - first:
+      213: 2348721358670636324
+    second: NPC_Girl_spritesheet_64x642_62
+  - first:
+      213: -5894707572410346219
+    second: NPC_Girl_spritesheet_64x642_63
+  - first:
+      213: 1941679054225170672
+    second: NPC_Girl_spritesheet_64x642_64
+  - first:
+      213: 2550186681258240040
+    second: NPC_Girl_spritesheet_64x642_65
+  - first:
+      213: -5396355056405692488
+    second: NPC_Girl_spritesheet_64x642_66
+  - first:
+      213: -2906014237655078651
+    second: NPC_Girl_spritesheet_64x642_67
+  - first:
+      213: -995529149032919335
+    second: NPC_Girl_spritesheet_64x642_68
+  - first:
+      213: 4957200364682386580
+    second: NPC_Girl_spritesheet_64x642_69
+  - first:
+      213: 1856659506021553188
+    second: NPC_Girl_spritesheet_64x642_70
+  - first:
+      213: -1892610698257964235
+    second: NPC_Girl_spritesheet_64x642_71
+  - first:
+      213: -4229007678589985846
+    second: NPC_Girl_spritesheet_64x642_72
+  - first:
+      213: -7111432180186902980
+    second: NPC_Girl_spritesheet_64x642_73
+  - first:
+      213: -3727297202540377050
+    second: NPC_Girl_spritesheet_64x642_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 908
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadc2f6fc58dd6880800000000000000
+      internalID: -8615992618298192465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 908
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e6bd15534011730800000000000000
+      internalID: 3967957373743230472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 908
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c8d2a287d6d4d90800000000000000
+      internalID: -7111907873677013994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 908
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a475a82c2ef4cfc0800000000000000
+      internalID: -3475373546809232222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 844
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ada33502d35ca290800000000000000
+      internalID: -7877829486682329687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 844
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddcaf67062a15550800000000000000
+      internalID: 6147873501534146005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 844
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936ea60c0d5817ab0800000000000000
+      internalID: -5012077778658728391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 844
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a4b2d94f5066540800000000000000
+      internalID: 5000690984408533568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 780
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1f2555299a9b8d0800000000000000
+      internalID: -2830044444863827502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 780
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf634c2a364d8b00800000000000000
+      internalID: 832398721798074307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_10
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 780
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4a53807205b1c20800000000000000
+      internalID: 3178222090611696839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 780
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824e9e6a597b73760800000000000000
+      internalID: 7437615163004019752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 716
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb263bb935eaae6c0800000000000000
+      internalID: -4113283635531783489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 716
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a5fcb7874bb2600800000000000000
+      internalID: 444647417792387695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 716
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cbcae2df5f95e00800000000000000
+      internalID: 1034128057216842828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 716
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4229bfe4ebd877300800000000000000
+      internalID: 249824152850764324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 652
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab497d30734c8e790800000000000000
+      internalID: -7500529438818855750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_17
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 652
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc96429875f9b850800000000000000
+      internalID: 6393411044228111570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 652
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf81733b0d7e1800800000000000000
+      internalID: 585042488665935808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 652
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34f3c061774b81b0800000000000000
+      internalID: -5653346354953194436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 588
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917a8b9f4d9ab3490800000000000000
+      internalID: -7765426400282499303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_21
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 588
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cfea6ee103cd6f0800000000000000
+      internalID: -658598536225555409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_22
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 588
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e87e49415ddd0f0800000000000000
+      internalID: -1090481250379526500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 588
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a9578a000c25320800000000000000
+      internalID: 2545307848476564034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 524
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffa753f97f97a9c0800000000000000
+      internalID: -3915986004852887561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 524
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc88aab95a7acdf90800000000000000
+      internalID: -6927477797079578420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 525
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c6dcf3da4daafe0800000000000000
+      internalID: -1176894512039105405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 524
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4062d0fa891717830800000000000000
+      internalID: 4067156839078110724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 524
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37557162e78bd31c0800000000000000
+      internalID: -4522255598865656461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 525
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b63a209bd20f240800000000000000
+      internalID: 4823405473550265104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 460
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976a49813643b3940800000000000000
+      internalID: 5276868988613469817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 460
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff234fbcbd437f00800000000000000
+      internalID: 1113319005948686325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 461
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6925ddb2883ae5710800000000000000
+      internalID: 1683963115929948822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 460
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea183fbea55195d60800000000000000
+      internalID: 7879352503311237550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 460
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3915d60d6787f30800000000000000
+      internalID: 4573536059154076597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 461
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a44aa93885c0efd0800000000000000
+      internalID: -2314633019594750808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 396
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2296491e91559d80800000000000000
+      internalID: -8244593803361086933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 396
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893a9179a2591d6d0800000000000000
+      internalID: -2967426669304241256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 397
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f97f78eb4c4a14b0800000000000000
+      internalID: -5468974908581119503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 396
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e4c48dec327efc0800000000000000
+      internalID: -3465762016939192712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 396
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfd232056e619430800000000000000
+      internalID: 3787930141702938580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 397
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbeaf17ef1692b00800000000000000
+      internalID: 804281753924201429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_42
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 332
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbac8748e687fbe0800000000000000
+      internalID: -1443536823358018613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 332
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b30bce60c527c30800000000000000
+      internalID: 4355644974431222615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 333
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f83c1e643b4e0e0800000000000000
+      internalID: -2241469597506892028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_45
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 332
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0b63aa98f09ebe0800000000000000
+      internalID: -1447608721282256726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_46
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 332
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0d129bac5f0a720800000000000000
+      internalID: 2855552414791094521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 333
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e01a03bb414547b0800000000000000
+      internalID: -5240710797993570078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 268
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ffc97ebd0e1fa90800000000000000
+      internalID: -7281791887393095906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 268
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fe7599a5ad66a70800000000000000
+      internalID: 8819977002906283821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_50
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 269
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74605be63bec81d70800000000000000
+      internalID: 9014181924233872967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_51
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 268
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc8a3eeb621105e0800000000000000
+      internalID: -1945253309279728421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_52
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 268
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b61ce42fbc679e0800000000000000
+      internalID: -1623886374056662113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_53
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 269
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8883aa7dac00c7630800000000000000
+      internalID: 3926013846361880712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_54
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 204
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c8ce97d92223b20800000000000000
+      internalID: 3112588352217189501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_55
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 204
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb59661ca53fc2b0800000000000000
+      internalID: -5562168001552622659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_56
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 204
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f8decaa73d3e720800000000000000
+      internalID: 2874373511033229157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_57
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 204
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043622da4ecd97760800000000000000
+      internalID: 7456233532803932992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_58
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 204
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7f1c238ab727520800000000000000
+      internalID: 2698355089084643232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_59
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 204
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed33ad564ae28f8b0800000000000000
+      internalID: -5118289692888255522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_60
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 139
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b5debb9be78b3a0800000000000000
+      internalID: -6649425513625592945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_61
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 140
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96409b6749a32ae0800000000000000
+      internalID: -1575229320437152098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_62
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 140
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425afe3b1a5589020800000000000000
+      internalID: 2348721358670636324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_63
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 138
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5151da3c1bac13ea0800000000000000
+      internalID: -5894707572410346219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_64
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 139
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f068e6ffca32fa10800000000000000
+      internalID: 1941679054225170672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_65
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 75
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828645f6645146320800000000000000
+      internalID: 2550186681258240040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_66
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 75
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf3e05daab4c15b0800000000000000
+      internalID: -5396355056405692488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_67
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 75
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50967549273cba7d0800000000000000
+      internalID: -2906014237655078651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_68
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 76
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de8854738b2f22f0800000000000000
+      internalID: -995529149032919335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_69
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 75
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c9451a7738bc440800000000000000
+      internalID: 4957200364682386580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 11
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4245445dbfd24c910800000000000000
+      internalID: 1856659506021553188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 10
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533ea30f8981cb5e0800000000000000
+      internalID: -1892610698257964235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 10
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb9e3d2ceb8f45c0800000000000000
+      internalID: -4229007678589985846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_73
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 11
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e8daf2c1e1f4d90800000000000000
+      internalID: -7111432180186902980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Girl_spritesheet_64x642_74
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 11
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c064e31faf54cc0800000000000000
+      internalID: -3727297202540377050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NPC_Girl_spritesheet_64x642_0: -8615992618298192465
+      NPC_Girl_spritesheet_64x642_1: 3967957373743230472
+      NPC_Girl_spritesheet_64x642_10: 3178222090611696839
+      NPC_Girl_spritesheet_64x642_11: 7437615163004019752
+      NPC_Girl_spritesheet_64x642_12: -4113283635531783489
+      NPC_Girl_spritesheet_64x642_13: 444647417792387695
+      NPC_Girl_spritesheet_64x642_14: 1034128057216842828
+      NPC_Girl_spritesheet_64x642_15: 249824152850764324
+      NPC_Girl_spritesheet_64x642_16: -7500529438818855750
+      NPC_Girl_spritesheet_64x642_17: 6393411044228111570
+      NPC_Girl_spritesheet_64x642_18: 585042488665935808
+      NPC_Girl_spritesheet_64x642_19: -5653346354953194436
+      NPC_Girl_spritesheet_64x642_2: -7111907873677013994
+      NPC_Girl_spritesheet_64x642_20: -7765426400282499303
+      NPC_Girl_spritesheet_64x642_21: -658598536225555409
+      NPC_Girl_spritesheet_64x642_22: -1090481250379526500
+      NPC_Girl_spritesheet_64x642_23: 2545307848476564034
+      NPC_Girl_spritesheet_64x642_24: -3915986004852887561
+      NPC_Girl_spritesheet_64x642_25: -6927477797079578420
+      NPC_Girl_spritesheet_64x642_26: -1176894512039105405
+      NPC_Girl_spritesheet_64x642_27: 4067156839078110724
+      NPC_Girl_spritesheet_64x642_28: -4522255598865656461
+      NPC_Girl_spritesheet_64x642_29: 4823405473550265104
+      NPC_Girl_spritesheet_64x642_3: -3475373546809232222
+      NPC_Girl_spritesheet_64x642_30: 5276868988613469817
+      NPC_Girl_spritesheet_64x642_31: 1113319005948686325
+      NPC_Girl_spritesheet_64x642_32: 1683963115929948822
+      NPC_Girl_spritesheet_64x642_33: 7879352503311237550
+      NPC_Girl_spritesheet_64x642_34: 4573536059154076597
+      NPC_Girl_spritesheet_64x642_35: -2314633019594750808
+      NPC_Girl_spritesheet_64x642_36: -8244593803361086933
+      NPC_Girl_spritesheet_64x642_37: -2967426669304241256
+      NPC_Girl_spritesheet_64x642_38: -5468974908581119503
+      NPC_Girl_spritesheet_64x642_39: -3465762016939192712
+      NPC_Girl_spritesheet_64x642_4: -7877829486682329687
+      NPC_Girl_spritesheet_64x642_40: 3787930141702938580
+      NPC_Girl_spritesheet_64x642_41: 804281753924201429
+      NPC_Girl_spritesheet_64x642_42: -1443536823358018613
+      NPC_Girl_spritesheet_64x642_43: 4355644974431222615
+      NPC_Girl_spritesheet_64x642_44: -2241469597506892028
+      NPC_Girl_spritesheet_64x642_45: -1447608721282256726
+      NPC_Girl_spritesheet_64x642_46: 2855552414791094521
+      NPC_Girl_spritesheet_64x642_47: -5240710797993570078
+      NPC_Girl_spritesheet_64x642_48: -7281791887393095906
+      NPC_Girl_spritesheet_64x642_49: 8819977002906283821
+      NPC_Girl_spritesheet_64x642_5: 6147873501534146005
+      NPC_Girl_spritesheet_64x642_50: 9014181924233872967
+      NPC_Girl_spritesheet_64x642_51: -1945253309279728421
+      NPC_Girl_spritesheet_64x642_52: -1623886374056662113
+      NPC_Girl_spritesheet_64x642_53: 3926013846361880712
+      NPC_Girl_spritesheet_64x642_54: 3112588352217189501
+      NPC_Girl_spritesheet_64x642_55: -5562168001552622659
+      NPC_Girl_spritesheet_64x642_56: 2874373511033229157
+      NPC_Girl_spritesheet_64x642_57: 7456233532803932992
+      NPC_Girl_spritesheet_64x642_58: 2698355089084643232
+      NPC_Girl_spritesheet_64x642_59: -5118289692888255522
+      NPC_Girl_spritesheet_64x642_6: -5012077778658728391
+      NPC_Girl_spritesheet_64x642_60: -6649425513625592945
+      NPC_Girl_spritesheet_64x642_61: -1575229320437152098
+      NPC_Girl_spritesheet_64x642_62: 2348721358670636324
+      NPC_Girl_spritesheet_64x642_63: -5894707572410346219
+      NPC_Girl_spritesheet_64x642_64: 1941679054225170672
+      NPC_Girl_spritesheet_64x642_65: 2550186681258240040
+      NPC_Girl_spritesheet_64x642_66: -5396355056405692488
+      NPC_Girl_spritesheet_64x642_67: -2906014237655078651
+      NPC_Girl_spritesheet_64x642_68: -995529149032919335
+      NPC_Girl_spritesheet_64x642_69: 4957200364682386580
+      NPC_Girl_spritesheet_64x642_7: 5000690984408533568
+      NPC_Girl_spritesheet_64x642_70: 1856659506021553188
+      NPC_Girl_spritesheet_64x642_71: -1892610698257964235
+      NPC_Girl_spritesheet_64x642_72: -4229007678589985846
+      NPC_Girl_spritesheet_64x642_73: -7111432180186902980
+      NPC_Girl_spritesheet_64x642_74: -3727297202540377050
+      NPC_Girl_spritesheet_64x642_8: -2830044444863827502
+      NPC_Girl_spritesheet_64x642_9: 832398721798074307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2184 @@
+fileFormatVersion: 2
+guid: aab6a26d080ddd74db3a61eb410feaec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8022908098197239674
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_0"
+  - first:
+      213: -7320931806586887049
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_1"
+  - first:
+      213: 1607578875300338756
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_2"
+  - first:
+      213: 3311899181659764661
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_3"
+  - first:
+      213: 7231668251009814159
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_4"
+  - first:
+      213: 5342775529733173392
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_5"
+  - first:
+      213: 4593180181916673100
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_6"
+  - first:
+      213: 5848834858739624405
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_7"
+  - first:
+      213: 1306752332175764136
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_8"
+  - first:
+      213: 4617584494675875733
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_9"
+  - first:
+      213: 3919473262980815819
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_10"
+  - first:
+      213: 1834882736170868191
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_11"
+  - first:
+      213: -6661780957554999998
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_12"
+  - first:
+      213: 5468033151991394070
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_13"
+  - first:
+      213: -7886474962323609924
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_14"
+  - first:
+      213: 3853738033242850095
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_15"
+  - first:
+      213: -586622764915661771
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_16"
+  - first:
+      213: 7356435844467003784
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_17"
+  - first:
+      213: 106701643923082996
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_18"
+  - first:
+      213: 4941727317702288904
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_19"
+  - first:
+      213: 1669049842193271506
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_20"
+  - first:
+      213: 9046522653844615984
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_21"
+  - first:
+      213: -4177648869316316387
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_22"
+  - first:
+      213: 1263985487612584564
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_23"
+  - first:
+      213: -2653259759475840421
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_24"
+  - first:
+      213: 4472239864259813659
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_25"
+  - first:
+      213: -2825074440641787560
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_26"
+  - first:
+      213: 5248627582288246390
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_27"
+  - first:
+      213: 2511948473292291859
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_28"
+  - first:
+      213: 587903569762236888
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_29"
+  - first:
+      213: -2193968083910888486
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_30"
+  - first:
+      213: -418788315385646811
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_31"
+  - first:
+      213: -7403017133914578259
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_32"
+  - first:
+      213: 4593096315320712367
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_33"
+  - first:
+      213: 1979843940365410063
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_34"
+  - first:
+      213: -8702292611707995546
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_35"
+  - first:
+      213: 61395911070288132
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_36"
+  - first:
+      213: -1190213106613722831
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_37"
+  - first:
+      213: 69688523647480355
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_38"
+  - first:
+      213: 1200317294862292639
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_39"
+  - first:
+      213: 502809632034366048
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_40"
+  - first:
+      213: -5908742106357009979
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_41"
+  - first:
+      213: -2268350472869291456
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_42"
+  - first:
+      213: 1688841501781085314
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_43"
+  - first:
+      213: -1589762037850653055
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_44"
+  - first:
+      213: -3406284347479171675
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_45"
+  - first:
+      213: 6479876429499237076
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_46"
+  - first:
+      213: -3851791822512675334
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_47"
+  - first:
+      213: -8105500144763299215
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_48"
+  - first:
+      213: 1798592535035247891
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_49"
+  - first:
+      213: 5478105217174184842
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_50"
+  - first:
+      213: 7137480122708252563
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_51"
+  - first:
+      213: 6973102355067710727
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_52"
+  - first:
+      213: 2774009858750409398
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_53"
+  - first:
+      213: -4399489262309889344
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_54"
+  - first:
+      213: -3211425782843543859
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_55"
+  - first:
+      213: -6400900651738902805
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_56"
+  - first:
+      213: 8119406097376584460
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_57"
+  - first:
+      213: 7224663486064396547
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_58"
+  - first:
+      213: -79769593865953455
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_59"
+  - first:
+      213: 2974842632385020537
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_60"
+  - first:
+      213: -4664777506887263941
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_61"
+  - first:
+      213: -500824853219395550
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_62"
+  - first:
+      213: 7634181668016849158
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_63"
+  - first:
+      213: -8447789639469479574
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_64"
+  - first:
+      213: 7220539405499734923
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_65"
+  - first:
+      213: -6363891764333402459
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_66"
+  - first:
+      213: 4126292412274754582
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_67"
+  - first:
+      213: -5400387274235128252
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_68"
+  - first:
+      213: 8651801009695191127
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_69"
+  - first:
+      213: -7223158597679635017
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_70"
+  - first:
+      213: -4836704414400253241
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_71"
+  - first:
+      213: -8927636785349627014
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_72"
+  - first:
+      213: -3635796869000749364
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_73"
+  - first:
+      213: -7767016400002108486
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_74"
+  - first:
+      213: -3169781513282154062
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_75"
+  - first:
+      213: -6638932114327685078
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_76"
+  - first:
+      213: -2175444796853425890
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_77"
+  - first:
+      213: -5857387340208773331
+    second: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_78"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_0"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1669
+        width: 315
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77b6aa7868175f60800000000000000
+      internalID: 8022908098197239674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_1"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1842
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774a7835f43d66a90800000000000000
+      internalID: -7320931806586887049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_2"
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1844
+        width: 185
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cd2b248744f4610800000000000000
+      internalID: 1607578875300338756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_3"
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1855
+        width: 185
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7bcbe22ca36fd20800000000000000
+      internalID: 3311899181659764661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_4"
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1843
+        width: 211
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e09e295fb0c5460800000000000000
+      internalID: 7231668251009814159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_5"
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1874
+        width: 192
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090356c790a552a40800000000000000
+      internalID: 5342775529733173392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_6"
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1880
+        width: 180
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44e18c2a014ebf30800000000000000
+      internalID: 4593180181916673100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_7"
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1897
+        width: 185
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9e819c05c3b2150800000000000000
+      internalID: 5848834858739624405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_8"
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1668
+        width: 196
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaefb89254822210800000000000000
+      internalID: 1306752332175764136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_9"
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1671
+        width: 189
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597d18502a4f41040800000000000000
+      internalID: 4617584494675875733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_10"
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1668
+        width: 284
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbdc9a9a24c46630800000000000000
+      internalID: 3919473262980815819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_11"
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1672
+        width: 298
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd16fd7020d67910800000000000000
+      internalID: 1834882736170868191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_12"
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1663
+        width: 191
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24df875c3899c83a0800000000000000
+      internalID: -6661780957554999998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_13"
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1681
+        width: 147
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fa18c4e2b52eb40800000000000000
+      internalID: 5468033151991394070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_14"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1270
+        width: 289
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb660bc5ecc9d8290800000000000000
+      internalID: -7886474962323609924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_15"
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1268
+        width: 259
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f234ad0c25a3b7530800000000000000
+      internalID: 3853738033242850095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_16"
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1302
+        width: 175
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5346b0014b5ebd7f0800000000000000
+      internalID: -586622764915661771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_17"
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1388
+        width: 275
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881186aac6f471660800000000000000
+      internalID: 7356435844467003784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_18"
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1465
+        width: 67
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe4cfe64941b7100800000000000000
+      internalID: 106701643923082996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_19"
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1467
+        width: 112
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8062d7420da849440800000000000000
+      internalID: 4941727317702288904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_20"
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1493
+        width: 88
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da0a5c0df7a92710800000000000000
+      internalID: 1669049842193271506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_21"
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1398
+        width: 225
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033bee25c64bb8d70800000000000000
+      internalID: 9046522653844615984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_22"
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1389
+        width: 267
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13b61ccc720606c0800000000000000
+      internalID: -4177648869316316387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_23"
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1447
+        width: 119
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472a566aa149a8110800000000000000
+      internalID: 1263985487612584564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_24"
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1278
+        width: 113
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5aaa9b6e4abd2bd0800000000000000
+      internalID: -2653259759475840421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_25"
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1277
+        width: 152
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b112c8b2676901e30800000000000000
+      internalID: 4472239864259813659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_26"
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1260
+        width: 291
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859c28d93c15bc8d0800000000000000
+      internalID: -2825074440641787560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_27"
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1313
+        width: 234
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676bb984afed6d840800000000000000
+      internalID: 5248627582288246390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_28"
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1253
+        width: 247
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ffbacd3db3cd220800000000000000
+      internalID: 2511948473292291859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_29"
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1241
+        width: 123
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9bcdd8e27a82800800000000000000
+      internalID: 587903569762236888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_30"
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1244
+        width: 141
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad372fdd6a57d81e0800000000000000
+      internalID: -2193968083910888486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_31"
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1240
+        width: 152
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521ba59fe3a203af0800000000000000
+      internalID: -418788315385646811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_32"
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1247
+        width: 106
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da224eab323334990800000000000000
+      internalID: -7403017133914578259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_33"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 905
+        width: 171
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facb8d573c4fdbf30800000000000000
+      internalID: 4593096315320712367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_34"
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 931
+        width: 104
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f9038f291d97b10800000000000000
+      internalID: 1979843940365410063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_35"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 901
+        width: 147
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a73a3f9fe3b3780800000000000000
+      internalID: -8702292611707995546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_36"
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 897
+        width: 310
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409810e714f1ad000800000000000000
+      internalID: 61395911070288132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_37"
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 868
+        width: 405
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131664d4c738b7fe0800000000000000
+      internalID: -1190213106613722831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_38"
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 928
+        width: 164
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322fde0d75597f000800000000000000
+      internalID: 69688523647480355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_39"
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 911
+        width: 261
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96560a583268a010800000000000000
+      internalID: 1200317294862292639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_40"
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1046
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062ad0342b65af600800000000000000
+      internalID: 502809632034366048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_41"
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1060
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c172313c5eeffda0800000000000000
+      internalID: -5908742106357009979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_42"
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 901
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a598e53433580e0800000000000000
+      internalID: -2268350472869291456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_43"
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 279
+        width: 279
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c4993e568ff6710800000000000000
+      internalID: 1688841501781085314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_44"
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 673
+        width: 100
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eb28879d700f9e0800000000000000
+      internalID: -1589762037850653055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_45"
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 676
+        width: 143
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5add788ee627ab0d0800000000000000
+      internalID: -3406284347479171675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_46"
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 736
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d28ab0e7452de950800000000000000
+      internalID: 6479876429499237076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_47"
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 473
+        width: 280
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5a06ebebfab8ac0800000000000000
+      internalID: -3851791822512675334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_48"
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 621
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a9188209a738f80800000000000000
+      internalID: -8105500144763299215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_49"
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 604
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31df17a9162e5f810800000000000000
+      internalID: 1798592535035247891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_50"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 359
+        width: 380
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83a1e7bba3260c40800000000000000
+      internalID: 5478105217174184842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_51"
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 572
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397df690b5c6d0360800000000000000
+      internalID: 7137480122708252563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_52"
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 572
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d204895af65c060800000000000000
+      internalID: 6973102355067710727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_53"
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 570
+        width: 96
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baef3ae4434f7620800000000000000
+      internalID: 2774009858750409398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_54"
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 577
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caafde43dfd1f2c0800000000000000
+      internalID: -4399489262309889344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_55"
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 575
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce641fe349be63d0800000000000000
+      internalID: -3211425782843543859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_56"
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 442
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee498a45ce6b27a0800000000000000
+      internalID: -6400900651738902805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_57"
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 443
+        width: 102
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03a54db3dceda070800000000000000
+      internalID: 8119406097376584460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_58"
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 439
+        width: 119
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3098a94a929234460800000000000000
+      internalID: 7224663486064396547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_59"
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 117
+        width: 100
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f1ebd1af994eef0800000000000000
+      internalID: -79769593865953455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_60"
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 221
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9724ffddc93c84920800000000000000
+      internalID: 2974842632385020537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_61"
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 272
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3990c19291634fb0800000000000000
+      internalID: -4664777506887263941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_62"
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 159
+        width: 246
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228bb211376bc09f0800000000000000
+      internalID: -500824853219395550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_63"
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 150
+        width: 202
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60181f887cf02f960800000000000000
+      internalID: 7634181668016849158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_64"
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 51
+        width: 116
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69423ac41c63ca80800000000000000
+      internalID: -8447789639469479574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_65"
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 201
+        width: 114
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b958f4552843460800000000000000
+      internalID: 7220539405499734923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_66"
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 278
+        width: 211
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6afdd582aeea7a0800000000000000
+      internalID: -6363891764333402459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_67"
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 192
+        width: 214
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614c6014619834930800000000000000
+      internalID: 4126292412274754582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_68"
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 182
+        width: 202
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446dca5f268fd05b0800000000000000
+      internalID: -5400387274235128252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_69"
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 121
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7507f3add2f511870800000000000000
+      internalID: 8651801009695191127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_70"
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 166
+        width: 116
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b52ffc768f22cb90800000000000000
+      internalID: -7223158597679635017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_71"
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 61
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2fb1806f290ecb0800000000000000
+      internalID: -4836704414400253241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_72"
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 72
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a737685f4a9aa1480800000000000000
+      internalID: -8927636785349627014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_73"
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 67
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce9bbbc20e0b8dc0800000000000000
+      internalID: -3635796869000749364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_74"
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 102
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3bd315cb3063490800000000000000
+      internalID: -7767016400002108486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_75"
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 124
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b19735028ca204d0800000000000000
+      internalID: -3169781513282154062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_76"
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 67
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28b095aa66cdd3a0800000000000000
+      internalID: -6638932114327685078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_77"
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 54
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e196417bb744fc1e0800000000000000
+      internalID: -2175444796853425890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_78"
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 63
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d276cf27f3166bea0800000000000000
+      internalID: -5857387340208773331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_0": 8022908098197239674
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_1": -7320931806586887049
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_10": 3919473262980815819
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_11": 1834882736170868191
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_12": -6661780957554999998
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_13": 5468033151991394070
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_14": -7886474962323609924
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_15": 3853738033242850095
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_16": -586622764915661771
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_17": 7356435844467003784
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_18": 106701643923082996
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_19": 4941727317702288904
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_2": 1607578875300338756
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_20": 1669049842193271506
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_21": 9046522653844615984
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_22": -4177648869316316387
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_23": 1263985487612584564
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_24": -2653259759475840421
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_25": 4472239864259813659
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_26": -2825074440641787560
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_27": 5248627582288246390
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_28": 2511948473292291859
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_29": 587903569762236888
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_3": 3311899181659764661
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_30": -2193968083910888486
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_31": -418788315385646811
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_32": -7403017133914578259
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_33": 4593096315320712367
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_34": 1979843940365410063
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_35": -8702292611707995546
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_36": 61395911070288132
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_37": -1190213106613722831
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_38": 69688523647480355
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_39": 1200317294862292639
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_4": 7231668251009814159
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_40": 502809632034366048
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_41": -5908742106357009979
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_42": -2268350472869291456
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_43": 1688841501781085314
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_44": -1589762037850653055
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_45": -3406284347479171675
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_46": 6479876429499237076
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_47": -3851791822512675334
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_48": -8105500144763299215
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_49": 1798592535035247891
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_5": 5342775529733173392
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_50": 5478105217174184842
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_51": 7137480122708252563
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_52": 6973102355067710727
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_53": 2774009858750409398
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_54": -4399489262309889344
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_55": -3211425782843543859
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_56": -6400900651738902805
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_57": 8119406097376584460
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_58": 7224663486064396547
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_59": -79769593865953455
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_6": 4593180181916673100
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_60": 2974842632385020537
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_61": -4664777506887263941
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_62": -500824853219395550
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_63": 7634181668016849158
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_64": -8447789639469479574
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_65": 7220539405499734923
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_66": -6363891764333402459
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_67": 4126292412274754582
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_68": -5400387274235128252
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_69": 8651801009695191127
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_7": 5848834858739624405
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_70": -7223158597679635017
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_71": -4836704414400253241
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_72": -8927636785349627014
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_73": -3635796869000749364
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_74": -7767016400002108486
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_75": -3169781513282154062
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_76": -6638932114327685078
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_77": -2175444796853425890
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_78": -5857387340208773331
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_8": 1306752332175764136
+      "Sin t\xEDtulo - 25 de mayo de 2026, 17.16.39_9": 4617584494675875733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

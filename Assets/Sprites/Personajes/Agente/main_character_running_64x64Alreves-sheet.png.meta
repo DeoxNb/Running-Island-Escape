@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 3e4c45d081603a4449a200446ae31035
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7482537816662990155
+    second: main_character_running_64x64Alreves-sheet_0
+  - first:
+      213: -5917997497096582758
+    second: main_character_running_64x64Alreves-sheet_1
+  - first:
+      213: -3933242704000413704
+    second: main_character_running_64x64Alreves-sheet_2
+  - first:
+      213: 2149284536069222467
+    second: main_character_running_64x64Alreves-sheet_3
+  - first:
+      213: 6281753055977815248
+    second: main_character_running_64x64Alreves-sheet_4
+  - first:
+      213: 1896377264408677331
+    second: main_character_running_64x64Alreves-sheet_5
+  - first:
+      213: -1352164433956476430
+    second: main_character_running_64x64Alreves-sheet_6
+  - first:
+      213: 4574378213001987528
+    second: main_character_running_64x64Alreves-sheet_7
+  - first:
+      213: 3626170672091852081
+    second: main_character_running_64x64Alreves-sheet_8
+  - first:
+      213: -4923976441492883445
+    second: main_character_running_64x64Alreves-sheet_9
+  - first:
+      213: 6269429981837575515
+    second: main_character_running_64x64Alreves-sheet_10
+  - first:
+      213: -1854343433134991792
+    second: main_character_running_64x64Alreves-sheet_11
+  - first:
+      213: 7139959775509709106
+    second: main_character_running_64x64Alreves-sheet_12
+  - first:
+      213: 618705107625881458
+    second: main_character_running_64x64Alreves-sheet_13
+  - first:
+      213: 8149128189598728857
+    second: main_character_running_64x64Alreves-sheet_14
+  - first:
+      213: 5212087790840402735
+    second: main_character_running_64x64Alreves-sheet_15
+  - first:
+      213: -3211044127460108690
+    second: main_character_running_64x64Alreves-sheet_16
+  - first:
+      213: -415534170203587397
+    second: main_character_running_64x64Alreves-sheet_17
+  - first:
+      213: -4582284117655043477
+    second: main_character_running_64x64Alreves-sheet_18
+  - first:
+      213: 4454145187172644543
+    second: main_character_running_64x64Alreves-sheet_19
+  - first:
+      213: 5077206974257676803
+    second: main_character_running_64x64Alreves-sheet_20
+  - first:
+      213: -1226392139842859045
+    second: main_character_running_64x64Alreves-sheet_21
+  - first:
+      213: 2440930339286049254
+    second: main_character_running_64x64Alreves-sheet_22
+  - first:
+      213: 3898207162930552041
+    second: main_character_running_64x64Alreves-sheet_23
+  - first:
+      213: 4420602966209676857
+    second: main_character_running_64x64Alreves-sheet_24
+  - first:
+      213: 1886370176165566415
+    second: main_character_running_64x64Alreves-sheet_25
+  - first:
+      213: 8132154248462163310
+    second: main_character_running_64x64Alreves-sheet_26
+  - first:
+      213: -3861743086068238928
+    second: main_character_running_64x64Alreves-sheet_27
+  - first:
+      213: -3581296686525714174
+    second: main_character_running_64x64Alreves-sheet_28
+  - first:
+      213: -2437545653430385782
+    second: main_character_running_64x64Alreves-sheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 268
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ddf94008057d760800000000000000
+      internalID: 7482537816662990155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 268
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9948eb91ac0fdda0800000000000000
+      internalID: -5917997497096582758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 269
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff88a499905a69c0800000000000000
+      internalID: -3933242704000413704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 268
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34075ade5eac3dd10800000000000000
+      internalID: 2149284536069222467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 268
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc384c4f154d2750800000000000000
+      internalID: 6281753055977815248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 269
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbc4351319415a10800000000000000
+      internalID: 1896377264408677331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 204
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f96b148c952c3de0800000000000000
+      internalID: -1352164433956476430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 204
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c50546afb47b7f30800000000000000
+      internalID: 4574378213001987528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 205
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d69f4930fb25230800000000000000
+      internalID: 3626170672091852081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 204
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08bc6ac3858aabb0800000000000000
+      internalID: -4923976441492883445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 204
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55cc930a5d710750800000000000000
+      internalID: 6269429981837575515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 205
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0561968e87c0446e0800000000000000
+      internalID: -1854343433134991792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 140
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23185d1369b361360800000000000000
+      internalID: 7139959775509709106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 140
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fa2c07405169800800000000000000
+      internalID: 618705107625881458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 141
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992872a99e4871170800000000000000
+      internalID: 8149128189598728857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 140
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23513f1b3e055840800000000000000
+      internalID: 5212087790840402735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 140
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66d2a001641073d0800000000000000
+      internalID: -3211044127460108690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 141
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc7af0bfd9bb3af0800000000000000
+      internalID: -415534170203587397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 76
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62c14b7fd47860c0800000000000000
+      internalID: -4582284117655043477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 76
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6f07bd27d40dd30800000000000000
+      internalID: 4454145187172644543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 77
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302c3c7c7dcd57640800000000000000
+      internalID: 5077206974257676803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 76
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfc555b8dafafee0800000000000000
+      internalID: -1226392139842859045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 76
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e16e92063defd120800000000000000
+      internalID: 2440930339286049254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 77
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecdb57d2c6391630800000000000000
+      internalID: 3898207162930552041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 12
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93647f5f9f2295d30800000000000000
+      internalID: 4420602966209676857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 12
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc75d394eabbd2a10800000000000000
+      internalID: 1886370176165566415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 13
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d5546f3373bd070800000000000000
+      internalID: 8132154248462163310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 12
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5f415af15586ac0800000000000000
+      internalID: -3861743086068238928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 12
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201f95c53adac4ec0800000000000000
+      internalID: -3581296686525714174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_character_running_64x64Alreves-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 13
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a830c7394291c2ed0800000000000000
+      internalID: -2437545653430385782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      main_character_running_64x64Alreves-sheet_0: 7482537816662990155
+      main_character_running_64x64Alreves-sheet_1: -5917997497096582758
+      main_character_running_64x64Alreves-sheet_10: 6269429981837575515
+      main_character_running_64x64Alreves-sheet_11: -1854343433134991792
+      main_character_running_64x64Alreves-sheet_12: 7139959775509709106
+      main_character_running_64x64Alreves-sheet_13: 618705107625881458
+      main_character_running_64x64Alreves-sheet_14: 8149128189598728857
+      main_character_running_64x64Alreves-sheet_15: 5212087790840402735
+      main_character_running_64x64Alreves-sheet_16: -3211044127460108690
+      main_character_running_64x64Alreves-sheet_17: -415534170203587397
+      main_character_running_64x64Alreves-sheet_18: -4582284117655043477
+      main_character_running_64x64Alreves-sheet_19: 4454145187172644543
+      main_character_running_64x64Alreves-sheet_2: -3933242704000413704
+      main_character_running_64x64Alreves-sheet_20: 5077206974257676803
+      main_character_running_64x64Alreves-sheet_21: -1226392139842859045
+      main_character_running_64x64Alreves-sheet_22: 2440930339286049254
+      main_character_running_64x64Alreves-sheet_23: 3898207162930552041
+      main_character_running_64x64Alreves-sheet_24: 4420602966209676857
+      main_character_running_64x64Alreves-sheet_25: 1886370176165566415
+      main_character_running_64x64Alreves-sheet_26: 8132154248462163310
+      main_character_running_64x64Alreves-sheet_27: -3861743086068238928
+      main_character_running_64x64Alreves-sheet_28: -3581296686525714174
+      main_character_running_64x64Alreves-sheet_29: -2437545653430385782
+      main_character_running_64x64Alreves-sheet_3: 2149284536069222467
+      main_character_running_64x64Alreves-sheet_4: 6281753055977815248
+      main_character_running_64x64Alreves-sheet_5: 1896377264408677331
+      main_character_running_64x64Alreves-sheet_6: -1352164433956476430
+      main_character_running_64x64Alreves-sheet_7: 4574378213001987528
+      main_character_running_64x64Alreves-sheet_8: 3626170672091852081
+      main_character_running_64x64Alreves-sheet_9: -4923976441492883445
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

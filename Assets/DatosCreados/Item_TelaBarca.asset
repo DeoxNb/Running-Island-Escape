@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eda6c4bfd3e1eb438ff7a1bb6a3a21a, type: 3}
+  m_Name: Item_TelaBarca
+  m_EditorClassIdentifier: Assembly-CSharp::RunningIsland.Datos.ItemData
+  idItem: tela_barco
+  nombreItem: Trozo de Tela
+  iconoItem: {fileID: -1852771254117502867, guid: 67c5e9c8443c5504a851d504c920756a, type: 3}

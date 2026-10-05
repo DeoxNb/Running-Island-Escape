@@ -1,0 +1,2119 @@
+fileFormatVersion: 2
+guid: 750d4fc489c9b5d48897996c599e575a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 198704058851834105
+    second: NPC_BlackBoy_spritesheet_64x64_0
+  - first:
+      213: -2040211424309797636
+    second: NPC_BlackBoy_spritesheet_64x64_1
+  - first:
+      213: -1782405443804648537
+    second: NPC_BlackBoy_spritesheet_64x64_2
+  - first:
+      213: 1787474947545152652
+    second: NPC_BlackBoy_spritesheet_64x64_3
+  - first:
+      213: -8190502104031153262
+    second: NPC_BlackBoy_spritesheet_64x64_4
+  - first:
+      213: 3092456966702863785
+    second: NPC_BlackBoy_spritesheet_64x64_5
+  - first:
+      213: -3278343910701896223
+    second: NPC_BlackBoy_spritesheet_64x64_6
+  - first:
+      213: 8101918254896043518
+    second: NPC_BlackBoy_spritesheet_64x64_7
+  - first:
+      213: 510950315402277320
+    second: NPC_BlackBoy_spritesheet_64x64_8
+  - first:
+      213: -5383433968896800987
+    second: NPC_BlackBoy_spritesheet_64x64_9
+  - first:
+      213: 8363874232637694842
+    second: NPC_BlackBoy_spritesheet_64x64_10
+  - first:
+      213: 455931331177302708
+    second: NPC_BlackBoy_spritesheet_64x64_11
+  - first:
+      213: -6583329548501077205
+    second: NPC_BlackBoy_spritesheet_64x64_12
+  - first:
+      213: 631085489607687105
+    second: NPC_BlackBoy_spritesheet_64x64_13
+  - first:
+      213: 7741183645059285727
+    second: NPC_BlackBoy_spritesheet_64x64_14
+  - first:
+      213: 2071930566892367935
+    second: NPC_BlackBoy_spritesheet_64x64_15
+  - first:
+      213: -6440281505994977361
+    second: NPC_BlackBoy_spritesheet_64x64_16
+  - first:
+      213: 7216827540027581488
+    second: NPC_BlackBoy_spritesheet_64x64_17
+  - first:
+      213: -8422995275416618673
+    second: NPC_BlackBoy_spritesheet_64x64_18
+  - first:
+      213: 2583763055438838856
+    second: NPC_BlackBoy_spritesheet_64x64_19
+  - first:
+      213: -4437881580212270256
+    second: NPC_BlackBoy_spritesheet_64x64_20
+  - first:
+      213: -7970301213183917733
+    second: NPC_BlackBoy_spritesheet_64x64_21
+  - first:
+      213: 5502955130706660834
+    second: NPC_BlackBoy_spritesheet_64x64_22
+  - first:
+      213: 2382665834992732279
+    second: NPC_BlackBoy_spritesheet_64x64_23
+  - first:
+      213: -1133774937069916525
+    second: NPC_BlackBoy_spritesheet_64x64_24
+  - first:
+      213: 3954588457447870277
+    second: NPC_BlackBoy_spritesheet_64x64_25
+  - first:
+      213: 4097220467673675859
+    second: NPC_BlackBoy_spritesheet_64x64_26
+  - first:
+      213: -4179908055813064997
+    second: NPC_BlackBoy_spritesheet_64x64_27
+  - first:
+      213: -8625208568005977762
+    second: NPC_BlackBoy_spritesheet_64x64_28
+  - first:
+      213: -3727033463996172431
+    second: NPC_BlackBoy_spritesheet_64x64_29
+  - first:
+      213: 7650243467996604348
+    second: NPC_BlackBoy_spritesheet_64x64_30
+  - first:
+      213: -3647418124500749391
+    second: NPC_BlackBoy_spritesheet_64x64_31
+  - first:
+      213: -4758671729224747733
+    second: NPC_BlackBoy_spritesheet_64x64_32
+  - first:
+      213: -1594127241368869054
+    second: NPC_BlackBoy_spritesheet_64x64_33
+  - first:
+      213: 5688378978005722320
+    second: NPC_BlackBoy_spritesheet_64x64_34
+  - first:
+      213: -6389646262646216056
+    second: NPC_BlackBoy_spritesheet_64x64_35
+  - first:
+      213: 3634459122474770177
+    second: NPC_BlackBoy_spritesheet_64x64_36
+  - first:
+      213: 7442148771989467610
+    second: NPC_BlackBoy_spritesheet_64x64_37
+  - first:
+      213: 1842524340025968949
+    second: NPC_BlackBoy_spritesheet_64x64_38
+  - first:
+      213: -7336991043979785315
+    second: NPC_BlackBoy_spritesheet_64x64_39
+  - first:
+      213: -7819329806576399245
+    second: NPC_BlackBoy_spritesheet_64x64_40
+  - first:
+      213: -526063289296244126
+    second: NPC_BlackBoy_spritesheet_64x64_41
+  - first:
+      213: -2241389710964292474
+    second: NPC_BlackBoy_spritesheet_64x64_42
+  - first:
+      213: -6371220481526655194
+    second: NPC_BlackBoy_spritesheet_64x64_43
+  - first:
+      213: -1303943062611497473
+    second: NPC_BlackBoy_spritesheet_64x64_44
+  - first:
+      213: 8780812591319615769
+    second: NPC_BlackBoy_spritesheet_64x64_45
+  - first:
+      213: 167083112241739957
+    second: NPC_BlackBoy_spritesheet_64x64_46
+  - first:
+      213: 1290072477468377952
+    second: NPC_BlackBoy_spritesheet_64x64_47
+  - first:
+      213: -5500004510629576681
+    second: NPC_BlackBoy_spritesheet_64x64_48
+  - first:
+      213: -4948739944924003402
+    second: NPC_BlackBoy_spritesheet_64x64_49
+  - first:
+      213: 2940607882731654549
+    second: NPC_BlackBoy_spritesheet_64x64_50
+  - first:
+      213: 9069545948422624786
+    second: NPC_BlackBoy_spritesheet_64x64_51
+  - first:
+      213: -6405244886458641801
+    second: NPC_BlackBoy_spritesheet_64x64_52
+  - first:
+      213: 5680815023986141400
+    second: NPC_BlackBoy_spritesheet_64x64_53
+  - first:
+      213: 9185013109984097813
+    second: NPC_BlackBoy_spritesheet_64x64_54
+  - first:
+      213: 2422279713548975772
+    second: NPC_BlackBoy_spritesheet_64x64_55
+  - first:
+      213: -9212298973526537399
+    second: NPC_BlackBoy_spritesheet_64x64_56
+  - first:
+      213: -8934765398833189731
+    second: NPC_BlackBoy_spritesheet_64x64_57
+  - first:
+      213: -2815908709973604624
+    second: NPC_BlackBoy_spritesheet_64x64_58
+  - first:
+      213: 2603443828350206614
+    second: NPC_BlackBoy_spritesheet_64x64_59
+  - first:
+      213: -6479034189236549723
+    second: NPC_BlackBoy_spritesheet_64x64_60
+  - first:
+      213: 8270987846854410708
+    second: NPC_BlackBoy_spritesheet_64x64_61
+  - first:
+      213: -9013547770310461354
+    second: NPC_BlackBoy_spritesheet_64x64_62
+  - first:
+      213: -4462467141767036045
+    second: NPC_BlackBoy_spritesheet_64x64_63
+  - first:
+      213: -6982072737977569834
+    second: NPC_BlackBoy_spritesheet_64x64_64
+  - first:
+      213: -2321619010749636792
+    second: NPC_BlackBoy_spritesheet_64x64_65
+  - first:
+      213: 1022413715729042840
+    second: NPC_BlackBoy_spritesheet_64x64_66
+  - first:
+      213: -7395849539988954242
+    second: NPC_BlackBoy_spritesheet_64x64_67
+  - first:
+      213: -4475625678333945717
+    second: NPC_BlackBoy_spritesheet_64x64_68
+  - first:
+      213: -6472814148396837795
+    second: NPC_BlackBoy_spritesheet_64x64_69
+  - first:
+      213: -7243171227069565761
+    second: NPC_BlackBoy_spritesheet_64x64_70
+  - first:
+      213: -5847467141195063091
+    second: NPC_BlackBoy_spritesheet_64x64_71
+  - first:
+      213: 4667819909461305228
+    second: NPC_BlackBoy_spritesheet_64x64_72
+  - first:
+      213: -8242147278017905495
+    second: NPC_BlackBoy_spritesheet_64x64_73
+  - first:
+      213: 4876772422485812720
+    second: NPC_BlackBoy_spritesheet_64x64_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 908
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8ba4be940f1c200800000000000000
+      internalID: 198704058851834105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 908
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc1253e486bfa3e0800000000000000
+      internalID: -2040211424309797636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 908
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab2d4441bf9347e0800000000000000
+      internalID: -1782405443804648537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 908
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cb65d8ef26ec810800000000000000
+      internalID: 1787474947545152652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 844
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29332254bbd755e80800000000000000
+      internalID: -8190502104031153262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 844
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a591870a3d9aea20800000000000000
+      internalID: 3092456966702863785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 844
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed6c07259bf082d0800000000000000
+      internalID: -3278343910701896223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 844
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5d45e1abbcf6070800000000000000
+      internalID: 8101918254896043518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 780
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c13d6fca92471700800000000000000
+      internalID: 510950315402277320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 780
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5278224f3533a45b0800000000000000
+      internalID: -5383433968896800987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 780
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73a9660d43721470800000000000000
+      internalID: 8363874232637694842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 780
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba4bcc412bc35600800000000000000
+      internalID: 455931331177302708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 716
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23b246d7a053a4a0800000000000000
+      internalID: -6583329548501077205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 716
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb38feb8e012c800800000000000000
+      internalID: 631085489607687105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 716
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd282d8b2853e6b60800000000000000
+      internalID: 7741183645059285727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 716
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30b4ee7fd9f0cc10800000000000000
+      internalID: 2071930566892367935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 652
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafc6a5a7168f96a0800000000000000
+      internalID: -6440281505994977361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 652
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034a9984962572460800000000000000
+      internalID: 7216827540027581488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 652
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49bff78c628b1b80800000000000000
+      internalID: -8422995275416618673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 652
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cb53f3fce5bd320800000000000000
+      internalID: 2583763055438838856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 588
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bc238373a7962c0800000000000000
+      internalID: -4437881580212270256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 588
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51ce4b664dc36190800000000000000
+      internalID: -7970301213183917733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 588
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed0fa4198c6e5c40800000000000000
+      internalID: 5502955130706660834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_23
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 588
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7788339f3fde01120800000000000000
+      internalID: 2382665834992732279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 525
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ee4b4a3b50440f0800000000000000
+      internalID: -1133774937069916525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 524
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f4a0fef3581e630800000000000000
+      internalID: 3954588457447870277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 524
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358362eae404cd830800000000000000
+      internalID: 4097220467673675859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 525
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6f773f4cbfdf5c0800000000000000
+      internalID: -4179908055813064997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 524
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e591956718a1d4880800000000000000
+      internalID: -8625208568005977762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 524
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177b388afcae64cc0800000000000000
+      internalID: -3727033463996172431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 461
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7a033c6ef1b2a60800000000000000
+      internalID: 7650243467996604348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 460
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3bfc56a84c16dc0800000000000000
+      internalID: -3647418124500749391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_32
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 460
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b257dd8564dc5fdb0800000000000000
+      internalID: -4758671729224747733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_33
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 461
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2476f6358b580e9e0800000000000000
+      internalID: -1594127241368869054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 460
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4a4dbca8e21fe40800000000000000
+      internalID: 5688378978005722320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 460
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ae192f39a6357a0800000000000000
+      internalID: -6389646262646216056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 397
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f59c1d051307230800000000000000
+      internalID: 3634459122474770177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 396
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1ba00c0e2d74760800000000000000
+      internalID: 7442148771989467610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 396
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53942490026f19910800000000000000
+      internalID: 1842524340025968949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 397
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bcc5fb485cd2a90800000000000000
+      internalID: -7336991043979785315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_40
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 396
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cc36138f82c7390800000000000000
+      internalID: -7819329806576399245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 396
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262bf10c93c03b8f0800000000000000
+      internalID: -526063289296244126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 333
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68402caeeebf4e0e0800000000000000
+      internalID: -2241389710964292474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 332
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62719ec6ab0e497a0800000000000000
+      internalID: -6371220481526655194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_44
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 332
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffde4b171b677ede0800000000000000
+      internalID: -1303943062611497473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_45
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 333
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91902e07786bbd970800000000000000
+      internalID: 8780812591319615769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_46
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 332
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8b2219439915200800000000000000
+      internalID: 167083112241739957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_47
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 332
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063c20a451247e110800000000000000
+      internalID: 1290072477468377952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 269
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710c0e0b90f0ca3b0800000000000000
+      internalID: -5500004510629576681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 268
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3c4095d3b825bb0800000000000000
+      internalID: -4948739944924003402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 268
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d0fe11a432fc820800000000000000
+      internalID: 2940607882731654549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_51
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 269
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21650d1dcff7ddd70800000000000000
+      internalID: 9069545948422624786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_52
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 268
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772de3356bffb17a0800000000000000
+      internalID: -6405244886458641801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_53
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 268
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d865638a2f46de40800000000000000
+      internalID: 5680815023986141400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_54
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 204
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51678ed52c8b77f70800000000000000
+      internalID: 9185013109984097813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_55
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 204
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eb8b0d09aad9120800000000000000
+      internalID: 2422279713548975772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_56
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 204
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b414674e6572080800000000000000
+      internalID: -9212298973526537399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 204
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ca81b4536510480800000000000000
+      internalID: -8934765398833189731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_58
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 204
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6481692f1ebe8d0800000000000000
+      internalID: -2815908709973604624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_59
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 204
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6924f754e5a412420800000000000000
+      internalID: 2603443828350206614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_60
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 139
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7c1f67bb8d516a0800000000000000
+      internalID: -6479034189236549723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 138
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1845900a378c270800000000000000
+      internalID: 8270987846854410708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_62
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 140
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65871a80f0279e280800000000000000
+      internalID: -9013547770310461354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_63
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 140
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3738f1917c12212c0800000000000000
+      internalID: -4462467141767036045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_64
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 139
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd68e066d1ba1f90800000000000000
+      internalID: -6982072737977569834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_65
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 75
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f59786fc3f7cfd0800000000000000
+      internalID: -2321619010749636792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_66
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 76
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d44838bd7503e00800000000000000
+      internalID: 1022413715729042840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_67
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 75
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73e8bc370aac5990800000000000000
+      internalID: -7395849539988954242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_68
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 75
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88d94f882263e1c0800000000000000
+      internalID: -4475625678333945717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_69
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 75
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d541fa393d1fb26a0800000000000000
+      internalID: -6472814148396837795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_70
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 11
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4303b15261b7b90800000000000000
+      internalID: -7243171227069565761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_71
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 11
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0ac45cd9f99dea0800000000000000
+      internalID: -5847467141195063091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_72
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 10
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87efeaf97d67c040800000000000000
+      internalID: 4667819909461305228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_73
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 10
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac3a4b28b20e9d80800000000000000
+      internalID: -8242147278017905495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_BlackBoy_spritesheet_64x64_74
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 11
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f520b41ea6cda340800000000000000
+      internalID: 4876772422485812720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NPC_BlackBoy_spritesheet_64x64_0: 198704058851834105
+      NPC_BlackBoy_spritesheet_64x64_1: -2040211424309797636
+      NPC_BlackBoy_spritesheet_64x64_10: 8363874232637694842
+      NPC_BlackBoy_spritesheet_64x64_11: 455931331177302708
+      NPC_BlackBoy_spritesheet_64x64_12: -6583329548501077205
+      NPC_BlackBoy_spritesheet_64x64_13: 631085489607687105
+      NPC_BlackBoy_spritesheet_64x64_14: 7741183645059285727
+      NPC_BlackBoy_spritesheet_64x64_15: 2071930566892367935
+      NPC_BlackBoy_spritesheet_64x64_16: -6440281505994977361
+      NPC_BlackBoy_spritesheet_64x64_17: 7216827540027581488
+      NPC_BlackBoy_spritesheet_64x64_18: -8422995275416618673
+      NPC_BlackBoy_spritesheet_64x64_19: 2583763055438838856
+      NPC_BlackBoy_spritesheet_64x64_2: -1782405443804648537
+      NPC_BlackBoy_spritesheet_64x64_20: -4437881580212270256
+      NPC_BlackBoy_spritesheet_64x64_21: -7970301213183917733
+      NPC_BlackBoy_spritesheet_64x64_22: 5502955130706660834
+      NPC_BlackBoy_spritesheet_64x64_23: 2382665834992732279
+      NPC_BlackBoy_spritesheet_64x64_24: -1133774937069916525
+      NPC_BlackBoy_spritesheet_64x64_25: 3954588457447870277
+      NPC_BlackBoy_spritesheet_64x64_26: 4097220467673675859
+      NPC_BlackBoy_spritesheet_64x64_27: -4179908055813064997
+      NPC_BlackBoy_spritesheet_64x64_28: -8625208568005977762
+      NPC_BlackBoy_spritesheet_64x64_29: -3727033463996172431
+      NPC_BlackBoy_spritesheet_64x64_3: 1787474947545152652
+      NPC_BlackBoy_spritesheet_64x64_30: 7650243467996604348
+      NPC_BlackBoy_spritesheet_64x64_31: -3647418124500749391
+      NPC_BlackBoy_spritesheet_64x64_32: -4758671729224747733
+      NPC_BlackBoy_spritesheet_64x64_33: -1594127241368869054
+      NPC_BlackBoy_spritesheet_64x64_34: 5688378978005722320
+      NPC_BlackBoy_spritesheet_64x64_35: -6389646262646216056
+      NPC_BlackBoy_spritesheet_64x64_36: 3634459122474770177
+      NPC_BlackBoy_spritesheet_64x64_37: 7442148771989467610
+      NPC_BlackBoy_spritesheet_64x64_38: 1842524340025968949
+      NPC_BlackBoy_spritesheet_64x64_39: -7336991043979785315
+      NPC_BlackBoy_spritesheet_64x64_4: -8190502104031153262
+      NPC_BlackBoy_spritesheet_64x64_40: -7819329806576399245
+      NPC_BlackBoy_spritesheet_64x64_41: -526063289296244126
+      NPC_BlackBoy_spritesheet_64x64_42: -2241389710964292474
+      NPC_BlackBoy_spritesheet_64x64_43: -6371220481526655194
+      NPC_BlackBoy_spritesheet_64x64_44: -1303943062611497473
+      NPC_BlackBoy_spritesheet_64x64_45: 8780812591319615769
+      NPC_BlackBoy_spritesheet_64x64_46: 167083112241739957
+      NPC_BlackBoy_spritesheet_64x64_47: 1290072477468377952
+      NPC_BlackBoy_spritesheet_64x64_48: -5500004510629576681
+      NPC_BlackBoy_spritesheet_64x64_49: -4948739944924003402
+      NPC_BlackBoy_spritesheet_64x64_5: 3092456966702863785
+      NPC_BlackBoy_spritesheet_64x64_50: 2940607882731654549
+      NPC_BlackBoy_spritesheet_64x64_51: 9069545948422624786
+      NPC_BlackBoy_spritesheet_64x64_52: -6405244886458641801
+      NPC_BlackBoy_spritesheet_64x64_53: 5680815023986141400
+      NPC_BlackBoy_spritesheet_64x64_54: 9185013109984097813
+      NPC_BlackBoy_spritesheet_64x64_55: 2422279713548975772
+      NPC_BlackBoy_spritesheet_64x64_56: -9212298973526537399
+      NPC_BlackBoy_spritesheet_64x64_57: -8934765398833189731
+      NPC_BlackBoy_spritesheet_64x64_58: -2815908709973604624
+      NPC_BlackBoy_spritesheet_64x64_59: 2603443828350206614
+      NPC_BlackBoy_spritesheet_64x64_6: -3278343910701896223
+      NPC_BlackBoy_spritesheet_64x64_60: -6479034189236549723
+      NPC_BlackBoy_spritesheet_64x64_61: 8270987846854410708
+      NPC_BlackBoy_spritesheet_64x64_62: -9013547770310461354
+      NPC_BlackBoy_spritesheet_64x64_63: -4462467141767036045
+      NPC_BlackBoy_spritesheet_64x64_64: -6982072737977569834
+      NPC_BlackBoy_spritesheet_64x64_65: -2321619010749636792
+      NPC_BlackBoy_spritesheet_64x64_66: 1022413715729042840
+      NPC_BlackBoy_spritesheet_64x64_67: -7395849539988954242
+      NPC_BlackBoy_spritesheet_64x64_68: -4475625678333945717
+      NPC_BlackBoy_spritesheet_64x64_69: -6472814148396837795
+      NPC_BlackBoy_spritesheet_64x64_7: 8101918254896043518
+      NPC_BlackBoy_spritesheet_64x64_70: -7243171227069565761
+      NPC_BlackBoy_spritesheet_64x64_71: -5847467141195063091
+      NPC_BlackBoy_spritesheet_64x64_72: 4667819909461305228
+      NPC_BlackBoy_spritesheet_64x64_73: -8242147278017905495
+      NPC_BlackBoy_spritesheet_64x64_74: 4876772422485812720
+      NPC_BlackBoy_spritesheet_64x64_8: 510950315402277320
+      NPC_BlackBoy_spritesheet_64x64_9: -5383433968896800987
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

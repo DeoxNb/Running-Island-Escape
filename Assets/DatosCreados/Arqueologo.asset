@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58cd6d80605434c428326bac65a4418f, type: 3}
+  m_Name: Arqueologo
+  m_EditorClassIdentifier: Assembly-CSharp::RunningIsland.Datos.PersonajeData
+  idPersonaje: arqueologo
+  nombrePersonaje: Arqueologo
+  descripcionHabilidad: "Su aguda intuici\xF3n arqueol\xF3gica le permite localizar
+    f\xE1cilmente los objetos clave "
+  velocidadMovimiento: 5
+  multiplicadorMitigacionFuego: 1
+  vidaMaxima: 100
+  controladorAnimaciones: {fileID: 22100000, guid: 40672ac9dbc9f954b88d699b17f28334, type: 2}
+  skinVisualMapa: {fileID: 7708143257283714039, guid: f25144e5c14474e4f9c2888649ba6567, type: 3}

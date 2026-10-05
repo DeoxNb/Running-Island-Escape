@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 4a2659b53f0d75d4582e076de0318b12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8159826458586815041
+    second: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_0"
+  - first:
+      213: -257846670591126738
+    second: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_1"
+  - first:
+      213: -7113026120250673270
+    second: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_2"
+  - first:
+      213: -8503920465897830710
+    second: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_3"
+  - first:
+      213: 7279045552439914642
+    second: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_4"
+  - first:
+      213: -6408202885050700881
+    second: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_5"
+  - first:
+      213: 5582893171767399402
+    second: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_6"
+  - first:
+      213: -2465367500644587756
+    second: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_7"
+  - first:
+      213: 7310125954469813413
+    second: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_8"
+  - first:
+      213: -5199737504441840148
+    second: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_9"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_0"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 484
+        width: 366
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a96e47ee68d3170800000000000000
+      internalID: 8159826458586815041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_1"
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 484
+        width: 371
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2316e8b1d1fb6cf0800000000000000
+      internalID: -257846670591126738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_2"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 483
+        width: 363
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8732681e64794d90800000000000000
+      internalID: -7113026120250673270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_3"
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 484
+        width: 364
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac64cf754610cf980800000000000000
+      internalID: -8503920465897830710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_4"
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 483
+        width: 365
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29071192d5d540560800000000000000
+      internalID: 7279045552439914642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_5"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 12
+        width: 365
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab6beb9d6d7117a0800000000000000
+      internalID: -6408202885050700881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_6"
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 12
+        width: 369
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae35622a2cb6a7d40800000000000000
+      internalID: 5582893171767399402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_7"
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 12
+        width: 364
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417694bf15149cdd0800000000000000
+      internalID: -2465367500644587756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_8"
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 12
+        width: 364
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac598b23d8c27560800000000000000
+      internalID: 7310125954469813413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_9"
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 0
+        width: 365
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedc7720a42d6d7b0800000000000000
+      internalID: -5199737504441840148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_0": 8159826458586815041
+      "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_1": -257846670591126738
+      "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_2": -7113026120250673270
+      "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_3": -8503920465897830710
+      "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_4": 7279045552439914642
+      "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_5": -6408202885050700881
+      "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_6": 5582893171767399402
+      "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_7": -2465367500644587756
+      "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_8": 7310125954469813413
+      "Sin t\xEDtulo - 24 de mayo de 2026, 20.06.26_9": -5199737504441840148
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

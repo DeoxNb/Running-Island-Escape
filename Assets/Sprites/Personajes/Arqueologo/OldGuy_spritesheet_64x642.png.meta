@@ -1,0 +1,2106 @@
+fileFormatVersion: 2
+guid: f729e86e556bc604baaaf03574d5d524
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 891180362123901794
+    second: OldGuy_spritesheet_64x642_0
+  - first:
+      213: -1659493133292861488
+    second: OldGuy_spritesheet_64x642_1
+  - first:
+      213: 6954945019706763073
+    second: OldGuy_spritesheet_64x642_2
+  - first:
+      213: -6369313069755974847
+    second: OldGuy_spritesheet_64x642_3
+  - first:
+      213: -8477269714139022069
+    second: OldGuy_spritesheet_64x642_4
+  - first:
+      213: -7576220927805301228
+    second: OldGuy_spritesheet_64x642_5
+  - first:
+      213: 3765751703855441646
+    second: OldGuy_spritesheet_64x642_6
+  - first:
+      213: -3185374176070884804
+    second: OldGuy_spritesheet_64x642_7
+  - first:
+      213: -868953842406908698
+    second: OldGuy_spritesheet_64x642_8
+  - first:
+      213: 7023281336365222797
+    second: OldGuy_spritesheet_64x642_9
+  - first:
+      213: -4094683983585112782
+    second: OldGuy_spritesheet_64x642_10
+  - first:
+      213: 904070126691038528
+    second: OldGuy_spritesheet_64x642_11
+  - first:
+      213: 6995307809097623216
+    second: OldGuy_spritesheet_64x642_12
+  - first:
+      213: 1955899487469621479
+    second: OldGuy_spritesheet_64x642_13
+  - first:
+      213: 2131446043883165203
+    second: OldGuy_spritesheet_64x642_14
+  - first:
+      213: 4871483720866491049
+    second: OldGuy_spritesheet_64x642_15
+  - first:
+      213: -5164101064593283841
+    second: OldGuy_spritesheet_64x642_16
+  - first:
+      213: 6451714922465266601
+    second: OldGuy_spritesheet_64x642_17
+  - first:
+      213: 4000227369768197999
+    second: OldGuy_spritesheet_64x642_18
+  - first:
+      213: -9202063489337768503
+    second: OldGuy_spritesheet_64x642_19
+  - first:
+      213: 5932493378962922823
+    second: OldGuy_spritesheet_64x642_20
+  - first:
+      213: 5072750921899285677
+    second: OldGuy_spritesheet_64x642_21
+  - first:
+      213: 94315496524117945
+    second: OldGuy_spritesheet_64x642_22
+  - first:
+      213: 7692288252765420334
+    second: OldGuy_spritesheet_64x642_23
+  - first:
+      213: 7030760957159487204
+    second: OldGuy_spritesheet_64x642_24
+  - first:
+      213: -844638967099809075
+    second: OldGuy_spritesheet_64x642_25
+  - first:
+      213: 2702828768665072182
+    second: OldGuy_spritesheet_64x642_26
+  - first:
+      213: -5528853719924506941
+    second: OldGuy_spritesheet_64x642_27
+  - first:
+      213: 7939277416082459304
+    second: OldGuy_spritesheet_64x642_28
+  - first:
+      213: 7182660329043174698
+    second: OldGuy_spritesheet_64x642_29
+  - first:
+      213: -4696485285992595297
+    second: OldGuy_spritesheet_64x642_30
+  - first:
+      213: 3504522987801156499
+    second: OldGuy_spritesheet_64x642_31
+  - first:
+      213: 5065762731099939197
+    second: OldGuy_spritesheet_64x642_32
+  - first:
+      213: 2963342992195856936
+    second: OldGuy_spritesheet_64x642_33
+  - first:
+      213: 8916429402627775816
+    second: OldGuy_spritesheet_64x642_34
+  - first:
+      213: -4730644015103394878
+    second: OldGuy_spritesheet_64x642_35
+  - first:
+      213: 4422203948594838156
+    second: OldGuy_spritesheet_64x642_36
+  - first:
+      213: 8557458179913281651
+    second: OldGuy_spritesheet_64x642_37
+  - first:
+      213: -8951729181392149885
+    second: OldGuy_spritesheet_64x642_38
+  - first:
+      213: 6364664066883794946
+    second: OldGuy_spritesheet_64x642_39
+  - first:
+      213: -2430410126337362971
+    second: OldGuy_spritesheet_64x642_40
+  - first:
+      213: -2919149349979833900
+    second: OldGuy_spritesheet_64x642_41
+  - first:
+      213: -4000094654417194203
+    second: OldGuy_spritesheet_64x642_42
+  - first:
+      213: -3293814529045565203
+    second: OldGuy_spritesheet_64x642_43
+  - first:
+      213: -4081549225562130999
+    second: OldGuy_spritesheet_64x642_44
+  - first:
+      213: 1945090488784349672
+    second: OldGuy_spritesheet_64x642_45
+  - first:
+      213: 6926081765094676819
+    second: OldGuy_spritesheet_64x642_46
+  - first:
+      213: 68126080039462332
+    second: OldGuy_spritesheet_64x642_47
+  - first:
+      213: -1417859457013462259
+    second: OldGuy_spritesheet_64x642_48
+  - first:
+      213: 3949512334247151732
+    second: OldGuy_spritesheet_64x642_49
+  - first:
+      213: 7813494246888007338
+    second: OldGuy_spritesheet_64x642_50
+  - first:
+      213: 3078704207366527499
+    second: OldGuy_spritesheet_64x642_51
+  - first:
+      213: 2667539457894243529
+    second: OldGuy_spritesheet_64x642_52
+  - first:
+      213: 1669348561580400286
+    second: OldGuy_spritesheet_64x642_53
+  - first:
+      213: 4995331111819786647
+    second: OldGuy_spritesheet_64x642_54
+  - first:
+      213: 2017447936502387870
+    second: OldGuy_spritesheet_64x642_55
+  - first:
+      213: 5371870119108270308
+    second: OldGuy_spritesheet_64x642_56
+  - first:
+      213: -8848250638944076542
+    second: OldGuy_spritesheet_64x642_57
+  - first:
+      213: -3026921063584851821
+    second: OldGuy_spritesheet_64x642_58
+  - first:
+      213: -2906999267427069666
+    second: OldGuy_spritesheet_64x642_59
+  - first:
+      213: 2729418055963768811
+    second: OldGuy_spritesheet_64x642_60
+  - first:
+      213: -3047611674871602339
+    second: OldGuy_spritesheet_64x642_61
+  - first:
+      213: -3299338113934264912
+    second: OldGuy_spritesheet_64x642_62
+  - first:
+      213: 8688041845646618279
+    second: OldGuy_spritesheet_64x642_63
+  - first:
+      213: 2833641028675714147
+    second: OldGuy_spritesheet_64x642_64
+  - first:
+      213: -6745974801801200706
+    second: OldGuy_spritesheet_64x642_65
+  - first:
+      213: 2937758726268658533
+    second: OldGuy_spritesheet_64x642_66
+  - first:
+      213: 2998687032573612254
+    second: OldGuy_spritesheet_64x642_67
+  - first:
+      213: 2802199668052919507
+    second: OldGuy_spritesheet_64x642_68
+  - first:
+      213: 4862070973837098054
+    second: OldGuy_spritesheet_64x642_69
+  - first:
+      213: -7524647814426582541
+    second: OldGuy_spritesheet_64x642_70
+  - first:
+      213: -6196751121851594180
+    second: OldGuy_spritesheet_64x642_71
+  - first:
+      213: -7185480127707528471
+    second: OldGuy_spritesheet_64x642_72
+  - first:
+      213: -6403473796919137095
+    second: OldGuy_spritesheet_64x642_73
+  - first:
+      213: -4717872455022383133
+    second: OldGuy_spritesheet_64x642_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 908
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bf23351db1e5c00800000000000000
+      internalID: 891180362123901794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 908
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d701e2a9cb48f8e0800000000000000
+      internalID: -1659493133292861488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 908
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1476ef385ade48060800000000000000
+      internalID: 6954945019706763073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 908
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b31f55287ab97a0800000000000000
+      internalID: -6369313069755974847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 844
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0df0970c10ba5a80800000000000000
+      internalID: -8477269714139022069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 844
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ed84ae43bdbd690800000000000000
+      internalID: -7576220927805301228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 844
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee620ac0933a24430800000000000000
+      internalID: 3765751703855441646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 844
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32a79e40174bc3d0800000000000000
+      internalID: -3185374176070884804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 780
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec1021951bd0f3f0800000000000000
+      internalID: -868953842406908698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 780
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b0eab1a25b77160800000000000000
+      internalID: 7023281336365222797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 780
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d8dea8c92cc27c0800000000000000
+      internalID: -4094683983585112782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 780
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04536718df6eb8c00800000000000000
+      internalID: 904070126691038528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 716
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6a7cfb363541160800000000000000
+      internalID: 6995307809097623216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 716
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0def69830c42b10800000000000000
+      internalID: 1955899487469621479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 716
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316519f42ea649d10800000000000000
+      internalID: 2131446043883165203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 716
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa685742acfa9340800000000000000
+      internalID: 4871483720866491049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 652
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff463bc317d6558b0800000000000000
+      internalID: -5164101064593283841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 652
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab01a11a88198950800000000000000
+      internalID: 6451714922465266601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 652
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f14d34999a38730800000000000000
+      internalID: 4000227369768197999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 652
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c54e65d204bb4080800000000000000
+      internalID: -9202063489337768503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 588
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d1175eb43745250800000000000000
+      internalID: 5932493378962922823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_21
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 588
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac97dd3618066640800000000000000
+      internalID: 5072750921899285677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_22
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 588
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b77223c1731f4100800000000000000
+      internalID: 94315496524117945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_23
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 588
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b3eff096f70ca60800000000000000
+      internalID: 7692288252765420334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 524
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e63d2807d7429160800000000000000
+      internalID: 7030760957159487204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 524
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc22092a55d3744f0800000000000000
+      internalID: -844638967099809075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 525
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632fcf4e170628520800000000000000
+      internalID: 2702828768665072182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 524
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce7dc8b5d09543b0800000000000000
+      internalID: -5528853719924506941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 524
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa40eeeebafd2e60800000000000000
+      internalID: 7939277416082459304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 525
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25a8ee838feda360800000000000000
+      internalID: 7182660329043174698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 460
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f900093f38bb2deb0800000000000000
+      internalID: -4696485285992595297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 460
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b1413f61192a030800000000000000
+      internalID: 3504522987801156499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 461
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71ef974d543d4640800000000000000
+      internalID: 5065762731099939197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 460
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a2a7d30c8ef1920800000000000000
+      internalID: 2963342992195856936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 460
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d1a78ec458dbb70800000000000000
+      internalID: 8916429402627775816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 461
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb3fe01550695eb0800000000000000
+      internalID: -4730644015103394878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 396
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a3358bf03de5d30800000000000000
+      internalID: 4422203948594838156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_37
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 396
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370fdf110e232c670800000000000000
+      internalID: 8557458179913281651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 397
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3826f91ecb115c380800000000000000
+      internalID: -8951729181392149885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 396
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2083d455f34d35850800000000000000
+      internalID: 6364664066883794946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_40
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 396
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e33621fdd2754ed0800000000000000
+      internalID: -2430410126337362971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 397
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9b32ce1291d77d0800000000000000
+      internalID: -2919149349979833900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_42
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 332
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523368fea1fcc78c0800000000000000
+      internalID: -4000094654417194203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_43
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 332
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0f73023250a42d0800000000000000
+      internalID: -3293814529045565203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 333
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c53915ba9c6b57c0800000000000000
+      internalID: -4081549225562130999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_45
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 332
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e96bf77e795efa10800000000000000
+      internalID: 1945090488784349672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_46
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 332
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35957cd5ba26e1060800000000000000
+      internalID: 6926081765094676819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 333
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb521b01f4802f000800000000000000
+      internalID: 68126080039462332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 268
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bc8430650c25ce0800000000000000
+      internalID: -1417859457013462259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 268
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47843d6ea8c7fc630800000000000000
+      internalID: 3949512334247151732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_50
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 269
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa66150be9b1f6c60800000000000000
+      internalID: 7813494246888007338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_51
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 268
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a15983a21c9ba20800000000000000
+      internalID: 3078704207366527499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_52
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 268
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccdf14f001050520800000000000000
+      internalID: 2667539457894243529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_53
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 269
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e1f431ca7ba2710800000000000000
+      internalID: 1669348561580400286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_54
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 204
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799b9770e2bf25540800000000000000
+      internalID: 4995331111819786647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_55
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 204
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94d118953a6ffb10800000000000000
+      internalID: 2017447936502387870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_56
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 204
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8dbf47967bc8a40800000000000000
+      internalID: 5371870119108270308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_57
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 204
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d7d168ce2b43580800000000000000
+      internalID: -8848250638944076542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_58
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 204
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39890e974573ef5d0800000000000000
+      internalID: -3026921063584851821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_59
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 204
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1150b6719348a7d0800000000000000
+      internalID: -2906999267427069666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_60
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 139
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7f145c247d0e520800000000000000
+      internalID: 2729418055963768811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_61
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 140
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53e1f12455b4b5d0800000000000000
+      internalID: -3047611674871602339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_62
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 140
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b57a0d47756632d0800000000000000
+      internalID: -3299338113934264912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_63
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 138
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aeee730700229870800000000000000
+      internalID: 8688041845646618279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_64
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 139
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c3037908d135720800000000000000
+      internalID: 2833641028675714147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_65
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 75
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb37e2d8ab7162a0800000000000000
+      internalID: -6745974801801200706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_66
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 75
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5632c032ff305c820800000000000000
+      internalID: 2937758726268658533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_67
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 75
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0de19e7f97d9920800000000000000
+      internalID: 2998687032573612254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_68
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4030c50c963e620800000000000000
+      internalID: 2802199668052919507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_69
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 75
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c3c445acb897340800000000000000
+      internalID: 4862070973837098054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_70
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 11
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f12f291ea4139790800000000000000
+      internalID: -7524647814426582541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_71
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 10
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a488cbfa7b00aa0800000000000000
+      internalID: -6196751121851594180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 10
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e24d57e4eb084c90800000000000000
+      internalID: -7185480127707528471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_73
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 11
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcec1e328a4227a0800000000000000
+      internalID: -6403473796919137095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldGuy_spritesheet_64x642_74
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 11
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef6ace9fffb68eb0800000000000000
+      internalID: -4717872455022383133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OldGuy_spritesheet_64x642_0: 891180362123901794
+      OldGuy_spritesheet_64x642_1: -1659493133292861488
+      OldGuy_spritesheet_64x642_10: -4094683983585112782
+      OldGuy_spritesheet_64x642_11: 904070126691038528
+      OldGuy_spritesheet_64x642_12: 6995307809097623216
+      OldGuy_spritesheet_64x642_13: 1955899487469621479
+      OldGuy_spritesheet_64x642_14: 2131446043883165203
+      OldGuy_spritesheet_64x642_15: 4871483720866491049
+      OldGuy_spritesheet_64x642_16: -5164101064593283841
+      OldGuy_spritesheet_64x642_17: 6451714922465266601
+      OldGuy_spritesheet_64x642_18: 4000227369768197999
+      OldGuy_spritesheet_64x642_19: -9202063489337768503
+      OldGuy_spritesheet_64x642_2: 6954945019706763073
+      OldGuy_spritesheet_64x642_20: 5932493378962922823
+      OldGuy_spritesheet_64x642_21: 5072750921899285677
+      OldGuy_spritesheet_64x642_22: 94315496524117945
+      OldGuy_spritesheet_64x642_23: 7692288252765420334
+      OldGuy_spritesheet_64x642_24: 7030760957159487204
+      OldGuy_spritesheet_64x642_25: -844638967099809075
+      OldGuy_spritesheet_64x642_26: 2702828768665072182
+      OldGuy_spritesheet_64x642_27: -5528853719924506941
+      OldGuy_spritesheet_64x642_28: 7939277416082459304
+      OldGuy_spritesheet_64x642_29: 7182660329043174698
+      OldGuy_spritesheet_64x642_3: -6369313069755974847
+      OldGuy_spritesheet_64x642_30: -4696485285992595297
+      OldGuy_spritesheet_64x642_31: 3504522987801156499
+      OldGuy_spritesheet_64x642_32: 5065762731099939197
+      OldGuy_spritesheet_64x642_33: 2963342992195856936
+      OldGuy_spritesheet_64x642_34: 8916429402627775816
+      OldGuy_spritesheet_64x642_35: -4730644015103394878
+      OldGuy_spritesheet_64x642_36: 4422203948594838156
+      OldGuy_spritesheet_64x642_37: 8557458179913281651
+      OldGuy_spritesheet_64x642_38: -8951729181392149885
+      OldGuy_spritesheet_64x642_39: 6364664066883794946
+      OldGuy_spritesheet_64x642_4: -8477269714139022069
+      OldGuy_spritesheet_64x642_40: -2430410126337362971
+      OldGuy_spritesheet_64x642_41: -2919149349979833900
+      OldGuy_spritesheet_64x642_42: -4000094654417194203
+      OldGuy_spritesheet_64x642_43: -3293814529045565203
+      OldGuy_spritesheet_64x642_44: -4081549225562130999
+      OldGuy_spritesheet_64x642_45: 1945090488784349672
+      OldGuy_spritesheet_64x642_46: 6926081765094676819
+      OldGuy_spritesheet_64x642_47: 68126080039462332
+      OldGuy_spritesheet_64x642_48: -1417859457013462259
+      OldGuy_spritesheet_64x642_49: 3949512334247151732
+      OldGuy_spritesheet_64x642_5: -7576220927805301228
+      OldGuy_spritesheet_64x642_50: 7813494246888007338
+      OldGuy_spritesheet_64x642_51: 3078704207366527499
+      OldGuy_spritesheet_64x642_52: 2667539457894243529
+      OldGuy_spritesheet_64x642_53: 1669348561580400286
+      OldGuy_spritesheet_64x642_54: 4995331111819786647
+      OldGuy_spritesheet_64x642_55: 2017447936502387870
+      OldGuy_spritesheet_64x642_56: 5371870119108270308
+      OldGuy_spritesheet_64x642_57: -8848250638944076542
+      OldGuy_spritesheet_64x642_58: -3026921063584851821
+      OldGuy_spritesheet_64x642_59: -2906999267427069666
+      OldGuy_spritesheet_64x642_6: 3765751703855441646
+      OldGuy_spritesheet_64x642_60: 2729418055963768811
+      OldGuy_spritesheet_64x642_61: -3047611674871602339
+      OldGuy_spritesheet_64x642_62: -3299338113934264912
+      OldGuy_spritesheet_64x642_63: 8688041845646618279
+      OldGuy_spritesheet_64x642_64: 2833641028675714147
+      OldGuy_spritesheet_64x642_65: -6745974801801200706
+      OldGuy_spritesheet_64x642_66: 2937758726268658533
+      OldGuy_spritesheet_64x642_67: 2998687032573612254
+      OldGuy_spritesheet_64x642_68: 2802199668052919507
+      OldGuy_spritesheet_64x642_69: 4862070973837098054
+      OldGuy_spritesheet_64x642_7: -3185374176070884804
+      OldGuy_spritesheet_64x642_70: -7524647814426582541
+      OldGuy_spritesheet_64x642_71: -6196751121851594180
+      OldGuy_spritesheet_64x642_72: -7185480127707528471
+      OldGuy_spritesheet_64x642_73: -6403473796919137095
+      OldGuy_spritesheet_64x642_74: -4717872455022383133
+      OldGuy_spritesheet_64x642_8: -868953842406908698
+      OldGuy_spritesheet_64x642_9: 7023281336365222797
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

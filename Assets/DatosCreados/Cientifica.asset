@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58cd6d80605434c428326bac65a4418f, type: 3}
+  m_Name: Cientifica
+  m_EditorClassIdentifier: Assembly-CSharp::RunningIsland.Datos.PersonajeData
+  idPersonaje: Cientfica
+  nombrePersonaje: Cientifica
+  descripcionHabilidad: "Su equipamiento mitiga el da\xF1o por quemaduras, permiti\xE9ndole
+    atravesar los focos de fuego con seguridad."
+  velocidadMovimiento: 5
+  multiplicadorMitigacionFuego: 0.5
+  vidaMaxima: 100
+  controladorAnimaciones: {fileID: 22100000, guid: cfed4b1bef70a7440865d6571e44fff7, type: 2}
+  skinVisualMapa: {fileID: 198704058851834105, guid: 750d4fc489c9b5d48897996c599e575a, type: 3}
